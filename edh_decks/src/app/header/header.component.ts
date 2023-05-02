@@ -5,7 +5,7 @@ import {Component} from '@angular/core';
  */
 @Component({
   selector: 'toolbar',
-  templateUrl: 'toolbar-overview-example.html',
-  styleUrls: ['toolbar-overview-example.css'],
+  templateUrl: 'header.component.html',
+  styleUrls: ['header.component.scss'],
 })
 export class ToolbarOverviewExample {}
